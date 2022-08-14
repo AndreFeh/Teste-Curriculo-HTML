@@ -1,0 +1,13 @@
+.perfil{
+    border-radius: 50%;
+    display: block;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+}
+
+.perfil-img{
+    height: 100%;
+    width: 100%;
+    object-position: center;
+}
